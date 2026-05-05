@@ -1,57 +1,29 @@
-<h1 align="center">🛒 E-commerce Funnel & Retention Analysis</h1>
+<h2>📊 Visual Insights</h2>
 
 <p align="center">
-  <i>Data Analysis Project • SQL / Excel • Product & Growth Insights</i>
+  <img src="retention_cohorts.png" width="600"/>
 </p>
 
-<hr>
-
-<h2>🧠 Overview</h2>
-
-<p>
-This project analyzes user behavior across an e-commerce funnel to identify drop-off points and retention patterns.
+<p align="center">
+  <i>Retention drops significantly after D7 across cohorts (~80–90% decline by D28)</i>
 </p>
 
-<p>
-Using MercadoLibre data, the analysis focuses on understanding conversion efficiency, user engagement, and opportunities to improve customer retention.
+<br>
+
+<p align="center">
+  <img src="retention_uplift.png" width="600"/>
 </p>
 
-<hr>
+<p align="center">
+  <i>Markets like Mexico and Peru show the highest retention uplift potential</i>
+</p>
 
-<h2>📊 Key Analysis Areas</h2>
+<br>
 
-<ul>
-  <li>Funnel conversion (view → cart → purchase)</li>
-  <li>User drop-off analysis</li>
-  <li>Retention metrics across user cohorts</li>
-  <li>Behavioral patterns across the purchase journey</li>
-</ul>
+<p align="center">
+  <img src="revenue_impact.png" width="600"/>
+</p>
 
-<hr>
-
-<h2>🔍 What I Did</h2>
-
-<ul>
-  <li>Structured funnel analysis using event-based data</li>
-  <li>Calculated conversion rates across key stages</li>
-  <li>Identified critical drop-off points</li>
-  <li>Analyzed retention trends over time</li>
-</ul>
-
-<hr>
-
-<h2>📈 Key Findings</h2>
-
-<ul>
-  <li><b>Significant drop-off occurs between product view and add-to-cart</b></li>
-  <li>Retention decreases sharply after initial interaction</li>
-  <li>Users who reach checkout have a much higher probability of conversion</li>
-  <li>Early-stage engagement is critical for improving overall funnel performance</li>
-</ul>
-
-<hr>
-
-<h2>📌 Business Impact</h2>
-
-<ul>
-  <li>Optimize product pages to improve add-to-cart rates</li>
+<p align="center">
+  <i>Retention improvements can drive significant revenue impact across key markets</i>
+</p>
